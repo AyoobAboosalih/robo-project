@@ -1,0 +1,19 @@
+.light-mode1{
+    padding: 2%;
+    background: lightblue;
+    border-style: solid; 
+    border-width: 1px;
+    border: solid green;
+    transition: all 0.5s ease-in-out;
+}
+
+
+.dark-mode1{
+    padding: 2%;
+    background: black;
+    color: white;
+    border-style: solid; 
+    border-width: 1px;
+    border: solid #FF8300;
+    transition: all 0.5s ease-in-out;
+}
